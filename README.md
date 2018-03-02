@@ -10,15 +10,15 @@ This repository contains documents for all the major projects that I completed a
 
 These include the following:
 
-Analysis of Neighbourhoods in Toronto (PDF)
+1. Analysis of Neighbourhoods in Toronto (PDF)
 
-Social Network Analysis - Top Canadian Banks (PDF and PowerPoint Presentation)
+2. Social Network Analysis - Top Canadian Banks (PDF and PowerPoint Presentation)
 
-Parallelization of KNN Algorithm (PDF)
+3. Parallelization of KNN Algorithm (PDF)
 
-Term Frequency-Inverse Document Frequency Calculation in Apache Spark using HDFS (PDF)
+4. Term Frequency-Inverse Document Frequency Calculation in Apache Spark using HDFS (PDF)
 
-Universities in Ontario (R Markdown in HTML and PowerPoint Presentation)
+5. Universities in Ontario (R Markdown in HTML and PowerPoint Presentation)
 
 
 
