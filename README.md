@@ -1,3 +1,4 @@
+
 # PROJECTS | Data Science and Analytics, MSc | 2016-2017 | Hira Fatima | Ryerson University
 
 Hello and Welcome to my Portfolio Folder!
@@ -7,10 +8,15 @@ This repository contains documents for all the major projects that I completed a
 These include the following:
 
 Analysis of Neighbourhoods in Toronto (PDF)
+
 Social Network Analysis - Top Canadian Banks (PDF and PowerPoint Presentation)
+
 Parallelization of KNN Algorithm (PDF)
+
 Term Frequency-Inverse Document Frequency Calculation in Apache Spark using HDFS (PDF)
+
 Universities in Ontario (R Markdown in HTML and PowerPoint Presentation)
+
 
 
 Hopefully you will find these project documents interesting.
